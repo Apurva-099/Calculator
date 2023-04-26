@@ -1,4 +1,4 @@
-## CALCULATOR
+# CALCULATOR
 
 A basic calculator built using html, css and javascript. 
 
@@ -11,6 +11,10 @@ A basic calculator built using html, css and javascript.
 ## 👤 Authors
 
 👤 **Apurva Gupta**
+
+## Link to the site
+
+  https://apurva-099.github.io/Calculator/
 
   
 ## 🤝 Contributing
